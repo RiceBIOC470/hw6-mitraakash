@@ -1,5 +1,16 @@
 % Akash Mitra
 % am132
+%GB comments
+1a 80 The plots don’t make any sense as lines graphs. Use the scatter function to plot data points.  Also need to put labels on your axis
+1b 100
+1c 100
+1d 100
+1e 100
+2a 100
+2b 100
+2c 80 Saying there are drastic changes in p-values is kinda stating the obvious, but we are looking at the relationship. For example, there are still low pvalues when the variance is low. Can you explain that?
+Overall: 95
+
 
 %HW6
 
